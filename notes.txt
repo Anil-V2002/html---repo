@@ -1,0 +1,2 @@
+I am trying to learn git and github 
+And also trying to connect github through vs code
